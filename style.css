@@ -18,6 +18,7 @@ h1{
     font-size: 24px;
     font-weight: bold;
     text-transform: uppercase;
+    letter-spacing: 0.2px;
     position: absolute;
     top: 13%;
     left: 50%;
